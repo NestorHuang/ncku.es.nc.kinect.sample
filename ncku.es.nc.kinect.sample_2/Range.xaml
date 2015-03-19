@@ -1,0 +1,13 @@
+﻿<Window x:Class="ncku.es.nc.kinect.sample_2.Range"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Range" Height="480" Width="1280">
+    <StackPanel Orientation="Horizontal">
+        <Image x:Name="ColorData" Height="480" Width="640" MouseLeftButtonUp="ColorData_MouseLeftButtonUp"/>
+        <StackPanel>
+            <Image x:Name="DepthData" Height="240" Width="320" VerticalAlignment="Top"/>
+            <Button x:Name="RangeButton" Click="RangeButton_Click">預設模式</Button>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

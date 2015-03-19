@@ -1,0 +1,10 @@
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\bin\Debug\ncku.es.nc.kinect.sample.exe
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\bin\Debug\ncku.es.nc.kinect.sample.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\bin\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\bin\Debug\ncku.es.nc.kinect.sample.dll.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.csprojResolveAssemblyReference.cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.Form1.resources
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.Properties.Resources.resources
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.csproj.GenerateResource.Cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.exe
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample\obj\x86\Debug\ncku.es.nc.kinect.sample.pdb

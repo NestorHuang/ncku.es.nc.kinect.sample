@@ -1,0 +1,15 @@
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\bin\Debug\ncku.es.nc.kinect.sample_3.exe.config
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.csprojResolveAssemblyReference.cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\MainWindow.baml
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\MainWindow.g.cs
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\App.g.cs
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3_MarkupCompile.cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.g.resources
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.Properties.Resources.resources
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.csproj.GenerateResource.Cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\bin\Debug\ncku.es.nc.kinect.sample_3.exe
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\bin\Debug\ncku.es.nc.kinect.sample_3.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\bin\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\bin\Debug\ncku.es.nc.kinect.sample.dll.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.exe
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample_3\obj\Debug\ncku.es.nc.kinect.sample_3.pdb

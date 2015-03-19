@@ -1,0 +1,10 @@
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample.dll\bin\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample.dll\bin\Debug\ncku.es.nc.kinect.sample.dll.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.csprojResolveAssemblyReference.cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample.dll\bin\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample.dll\bin\Debug\ncku.es.nc.kinect.sample.dll.pdb
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.csprojResolveAssemblyReference.cache
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.dll
+E:\PrivateProject\PHD\ncku.es.nc.kinect.sample\ncku.es.nc.kinect.sample.dll\obj\Debug\ncku.es.nc.kinect.sample.dll.pdb
